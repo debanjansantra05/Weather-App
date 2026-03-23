@@ -26,4 +26,4 @@ API: Weather API (e.g., OpenWeatherMap)
 
 Tools: Git, GitHub
 
-Check out my project live : 
+Check out my project live : https://debanjansantra05.github.io/Weather-App/
